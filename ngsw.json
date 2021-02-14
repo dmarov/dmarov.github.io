@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1613289730890,
+  "timestamp": 1613294933056,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -8,6 +8,7 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
+        "/404.html",
         "/favicon.ico",
         "/index.html",
         "/main-es2015.9ece7413c4ba8d7dedfb.js",
@@ -148,6 +149,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/404.html": "735ec577ec0b82a6ce14f9d510955ea0aaf9dc24",
     "/assets/fonts/index.css": "5b1bde2dbf65effd3feeb7db6fed3eaa905991ef",
     "/assets/fonts/ubuntu-v15-latin-300.eot": "e3b7e197faf9aa020f07d4368d5cb1e50f1a36fb",
     "/assets/fonts/ubuntu-v15-latin-300.svg": "9fc764fd664fb70b9118a67c790372f23552fa19",
