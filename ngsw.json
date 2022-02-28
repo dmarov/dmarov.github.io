@@ -1,24 +1,27 @@
 {
   "configVersion": 1,
-  "timestamp": 1645721783527,
+  "timestamp": 1646068737389,
   "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
       "urls": [
         "/404.html",
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.44b32f7205adfcfdc092.js",
-        "/main-es5.44b32f7205adfcfdc092.js",
+        "/main-es2015.3fd0aa422f006be9e306.js",
+        "/main-es5.3fd0aa422f006be9e306.js",
         "/manifest.webmanifest",
-        "/polyfills-es2015.5520430c527d3bfbf766.js",
-        "/polyfills-es5.76b132e9416fecff1d47.js",
-        "/runtime-es2015.0dae8cbc97194c7caed4.js",
-        "/runtime-es5.0dae8cbc97194c7caed4.js",
-        "/styles.b5f4dca487ae69fee30f.css"
+        "/polyfills-es2015.b9a9b92a92ba80d02c2d.js",
+        "/polyfills-es5.1373da65886b6855911f.js",
+        "/runtime-es2015.e00ff51daec169a3b580.js",
+        "/runtime-es5.e00ff51daec169a3b580.js",
+        "/styles.5259a0f3d2c89b0e0161.css"
       ],
       "patterns": []
     },
@@ -26,6 +29,9 @@
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
       "urls": [
         "/assets/fonts/index.css",
         "/assets/fonts/ubuntu-v15-latin-300.eot",
@@ -84,7 +90,6 @@
         "/assets/images/bg-6.jpg",
         "/assets/images/bg-7.jpg",
         "/assets/images/bg.jpg",
-        "/assets/images/digitization.jpg",
         "/assets/images/github.png",
         "/assets/images/kemerovo/home.png",
         "/assets/images/laptop.png",
@@ -207,7 +212,6 @@
     "/assets/images/bg-6.jpg": "edb9b983a0d3c2ad68522a1228c4d07a5d4a6d58",
     "/assets/images/bg-7.jpg": "2a3ad494af98ea3ac257c825db9cbbc51bfccc39",
     "/assets/images/bg.jpg": "83716a4f714a20817765313d85e8c90cd2d8d39a",
-    "/assets/images/digitization.jpg": "4e42a5a42b18440d261a8e2aa3c135a9ff65cb5b",
     "/assets/images/github.png": "b105cbf5891c2996ce1c94429a9bd07b437c3d93",
     "/assets/images/kemerovo/home.png": "55dd9b76278fec11462607229a0426107a1e956f",
     "/assets/images/laptop.png": "77ff3d00347c2a95a994ba12dd5bae2c9c7285ad",
@@ -267,15 +271,15 @@
     "/assets/images/trik/home.png": "6e71e8e11ac93ee30f2d9f0a77e9ac57e17dbc38",
     "/assets/images/vmedia/home.png": "25b7fde15c4e683b62e9861939faf46ae595720b",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "be422d2390537e76b05af820575f884abcfb7aac",
-    "/main-es2015.44b32f7205adfcfdc092.js": "ae763daf7e582ae95d932f4513bc3e71e0d8efe0",
-    "/main-es5.44b32f7205adfcfdc092.js": "0774f4e772b563c6f8fb789b0940da80644bc5b5",
+    "/index.html": "5a989378646b18b51c986864ef0423e2228a9d4f",
+    "/main-es2015.3fd0aa422f006be9e306.js": "918b95e5a88ea18f3530882f7b5207fbea09a259",
+    "/main-es5.3fd0aa422f006be9e306.js": "a9f6eccd5859b6c9a1378ed7e7868b2be12a352a",
     "/manifest.webmanifest": "d72a611faaeb3877c4e91141d35331486d7d4e16",
-    "/polyfills-es2015.5520430c527d3bfbf766.js": "5e502ee65e608e737cf43bd2afae46b308fbc137",
-    "/polyfills-es5.76b132e9416fecff1d47.js": "d9c4567b4fbe2cd9da3f2fe2c24355d57c192020",
-    "/runtime-es2015.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/runtime-es5.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.b5f4dca487ae69fee30f.css": "e78ecf761d9a80fc2940ccb451b54737cb74c813"
+    "/polyfills-es2015.b9a9b92a92ba80d02c2d.js": "9869f6f2ea61acacff81d2fc069833ef6a464946",
+    "/polyfills-es5.1373da65886b6855911f.js": "724822196fb917254aac6f3db3ffe0b7fa0444e5",
+    "/runtime-es2015.e00ff51daec169a3b580.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.e00ff51daec169a3b580.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.5259a0f3d2c89b0e0161.css": "b93297ca07d1159365dcbb6052da8860ad5730a4"
   },
   "navigationUrls": [
     {
