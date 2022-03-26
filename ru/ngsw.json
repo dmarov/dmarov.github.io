@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1648326521413,
+  "timestamp": 1648330902595,
   "index": "/ru/index.html",
   "assetGroups": [
     {
@@ -14,13 +14,13 @@
         "/ru/404.html",
         "/ru/favicon.ico",
         "/ru/index.html",
-        "/ru/main-es2015.bbe2a7047a63f18c1d8f.js",
-        "/ru/main-es5.bbe2a7047a63f18c1d8f.js",
+        "/ru/main-es2015.48384663ba339d91b52d.js",
+        "/ru/main-es5.48384663ba339d91b52d.js",
         "/ru/manifest.webmanifest",
-        "/ru/polyfills-es2015.144a5612752c6a593189.js",
-        "/ru/polyfills-es5.504fe51a9c0b926cb4c1.js",
-        "/ru/runtime-es2015.4ae2bea2e6046f9805e8.js",
-        "/ru/runtime-es5.4ae2bea2e6046f9805e8.js",
+        "/ru/polyfills-es2015.bfc97db434a3140a9c40.js",
+        "/ru/polyfills-es5.2a57c53ddb8edfccfdb5.js",
+        "/ru/runtime-es2015.82a85092265933d3edf7.js",
+        "/ru/runtime-es5.82a85092265933d3edf7.js",
         "/ru/styles.7a9c926c8040f3910a99.css"
       ],
       "patterns": []
@@ -245,16 +245,16 @@
     "/ru/assets/images/trik/home.png": "397dd30b6a7d5128232e8078546e1c4348ea1ec5",
     "/ru/assets/images/vmedia/checkout.png": "0c276c3f8ce222d7fbe5759899c93561d5f645e8",
     "/ru/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/ru/index.html": "fed9b495e78282571c7abb2b150522be2d238d9f",
-    "/ru/main-es2015.bbe2a7047a63f18c1d8f.js": "aa407468adc9160c8610233c0b64887b7b5ca92d",
-    "/ru/main-es5.bbe2a7047a63f18c1d8f.js": "74bf7a732bd2aefe16286105e755bb149a5cc9a1",
+    "/ru/index.html": "2956cb013df9e0e415308ab5596bc35311580029",
+    "/ru/main-es2015.48384663ba339d91b52d.js": "5111899eba30552c9297322471c556cbc1221677",
+    "/ru/main-es5.48384663ba339d91b52d.js": "9767998f6136ad83b0e65c4c1a4c5e0f5554004f",
     "/ru/main.4c1d3698ce477713e865.png": "a907f4b25d74ef13bce23f2f0ea989fa249c24de",
     "/ru/main@2x.c70efe43652bcc3f9d4a.png": "5f7dcba5d443c99f8e71d1ba0075f18b37913792",
     "/ru/manifest.webmanifest": "d72a611faaeb3877c4e91141d35331486d7d4e16",
-    "/ru/polyfills-es2015.144a5612752c6a593189.js": "2e7972aaf08e1fdc88c2275e3740cbb51efb788b",
-    "/ru/polyfills-es5.504fe51a9c0b926cb4c1.js": "dbe2ef3d134051d6b4765f28aed73cc1b28ff798",
-    "/ru/runtime-es2015.4ae2bea2e6046f9805e8.js": "c08a15f22e177240d7761cbd9606e4513c92b473",
-    "/ru/runtime-es5.4ae2bea2e6046f9805e8.js": "c08a15f22e177240d7761cbd9606e4513c92b473",
+    "/ru/polyfills-es2015.bfc97db434a3140a9c40.js": "2e7972aaf08e1fdc88c2275e3740cbb51efb788b",
+    "/ru/polyfills-es5.2a57c53ddb8edfccfdb5.js": "dbe2ef3d134051d6b4765f28aed73cc1b28ff798",
+    "/ru/runtime-es2015.82a85092265933d3edf7.js": "c08a15f22e177240d7761cbd9606e4513c92b473",
+    "/ru/runtime-es5.82a85092265933d3edf7.js": "c08a15f22e177240d7761cbd9606e4513c92b473",
     "/ru/styles.7a9c926c8040f3910a99.css": "553385e84ee204a8033590c5875104b2b67e4141"
   },
   "navigationUrls": [
