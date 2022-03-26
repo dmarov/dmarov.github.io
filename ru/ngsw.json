@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1648320029829,
+  "timestamp": 1648321579142,
   "index": "/ru/index.html",
   "assetGroups": [
     {
@@ -142,7 +142,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/ru/404.html": "735ec577ec0b82a6ce14f9d510955ea0aaf9dc24",
+    "/ru/404.html": "5cd8f070f3e08be31c7adeab13e8316762e5eb73",
     "/ru/assets/fonts/index.css": "5b1bde2dbf65effd3feeb7db6fed3eaa905991ef",
     "/ru/assets/fonts/ubuntu-v15-latin-300.eot": "e3b7e197faf9aa020f07d4368d5cb1e50f1a36fb",
     "/ru/assets/fonts/ubuntu-v15-latin-300.svg": "9fc764fd664fb70b9118a67c790372f23552fa19",
