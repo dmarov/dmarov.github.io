@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[592],{7882:(l,s,r)=>{r.d(s,{h:()=>c});class c{static init(){const t=new IntersectionObserver(e=>{e.forEach(o=>{o.intersectionRatio<=0||(o.target.classList.toggle("unfold_hidden",!1),t.unobserve(o.target))})});document.querySelectorAll(".unfold").forEach(e=>{t.observe(e)})}}}}]);
